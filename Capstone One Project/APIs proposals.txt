@@ -1,0 +1,32 @@
+
+
+		TOP APIs FOR CAPSTONE ONE PROJECT
+
+
+	1. 	FOOD PROJECT
+	   
+	   The main focus of using this APIs is to establish a user friendly app where user can build and select platform of food recipes ranging from weight gaining or losing for the gym bros and girlies.
+
+	-  https://apilist.fun/api/us-restaurant-menus  (Us Resturant Menu)
+
+	-  https://apilist.fun/api/food-api   (Food Apu)
+
+	-  https://apilist.fun/api/food2fork
+
+
+	2.	MUSIC APP PROJECT
+
+	  This project will focus mainly on user diving thru the pool of music world to search, select, view history and play musics of their favorite musicians.
+
+
+	-  https://apilist.fun/api/spotify
+
+	- https://apilist.fun/api/soundcloud-api
+
+
+
+	3.	SPORT NEWS APP
+
+	  With the Sports DB API you can query teams, players in teams, player details, player contract details, and just about any player or team data from a broad range of sports )
+	
+	-  https://apilist.fun/api/the-sports-db 
